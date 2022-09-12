@@ -1,8 +1,14 @@
 h1 {
     font-family: 'Anton', sans-serif;
 }
+h3 {
+    font-family: 'Abel', sans-serif;
+}
+h6 {
+    font-family: 'Abel', sans-serif;
+}
 body{
-    background-color: #E6E6E6;
+    background-color: #f0f0f0;
 }
 .myCircle {
     font-family: 'Anton', sans-serif;
@@ -10,6 +16,14 @@ body{
     height: 105px;
     width: 105px;
     color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mySmallCircle {
+    font-family: 'Anton', sans-serif;
+    height: 18px;
+    width: 18px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -27,7 +41,9 @@ body{
     background-color: #00aba9;
 }
 
-
+.bgColor {
+    background-color: #E6E6E6;
+}
 
 @media screen and (max-width: 768px) {
     .mobile-break {
@@ -39,5 +55,9 @@ body{
         max-width:391px;
         margin: 0 auto;
     }
+    .appleIpad{
+
+    }
 }
+
 
