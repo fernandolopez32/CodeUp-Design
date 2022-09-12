@@ -44,6 +44,10 @@ body{
 .bgColor {
     background-color: #E6E6E6;
 }
+hr {
+    width: 80%;
+    margin:auto;
+}
 
 @media screen and (max-width: 768px) {
     .mobile-break {
@@ -55,8 +59,8 @@ body{
         max-width:391px;
         margin: 0 auto;
     }
-    .appleIpad{
-
+    hr {
+        display: none;
     }
 }
 
