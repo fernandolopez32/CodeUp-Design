@@ -4,44 +4,26 @@ h1 {
 body{
     background-color: #E6E6E6;
 }
-#redCircle {
+.myCircle {
     font-family: 'Anton', sans-serif;
     border: 6px solid white;
     height: 105px;
     width: 105px;
-    background-color: #e6563b;
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+#redCircle {
+    background-color: #e6563b;
 }
 #orangeCircle {
-    font-family: 'Anton', sans-serif;
-    border: 6px solid white;
-    height: 105px;
-    width: 105px;
     background-color: #EB9D3A;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 #greenCircle {
-    font-family: 'Anton', sans-serif;
-    border: 6px solid white;
-    height: 105px;
-    width: 105px;
     background-color: #7cb06c;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 #blueCircle {
-    font-family: 'Anton', sans-serif;
-    border: 6px solid white;
-    height: 105px;
-    width: 105px;
     background-color: #00aba9;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
