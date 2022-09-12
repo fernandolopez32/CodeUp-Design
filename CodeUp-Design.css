@@ -27,3 +27,17 @@ body{
     background-color: #00aba9;
 }
 
+
+
+@media screen and (max-width: 768px) {
+    .mobile-break {
+        display:block;
+    }
+    .hero-scene {
+        display:block;
+        width:100%;
+        max-width:391px;
+        margin: 0 auto;
+    }
+}
+
