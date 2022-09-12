@@ -28,16 +28,16 @@ body{
     align-items: center;
     justify-content: center;
 }
-#redCircle {
+.redCircle {
     background-color: #e6563b;
 }
-#orangeCircle {
+.orangeCircle {
     background-color: #EB9D3A;
 }
-#greenCircle {
+.greenCircle {
     background-color: #7cb06c;
 }
-#blueCircle {
+.blueCircle {
     background-color: #00aba9;
 }
 
