@@ -67,10 +67,19 @@ hr {
         display: none;
     }
 }
+@media screen and (min-width:769px) and (max-width: 959px){
+    .sideColumn {
+        display: none;
+    }
+}
 @media screen and (min-width: 769px) and (max-width: 1200px) {
     .sideColumn {
 
     }
 }
 
+.imgWrapper{
+    position: absolute;
+
+}
 
