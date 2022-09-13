@@ -80,6 +80,9 @@ hr {
 
 .imgWrapper{
     position: absolute;
-
+    font-family: 'Anton', sans-serif;
+    overflow: hidden;
+    width: 105px;
+    height: 105px;
 }
 
