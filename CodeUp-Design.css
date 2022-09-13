@@ -4,6 +4,10 @@ h1 {
 h3 {
     font-family: 'Abel', sans-serif;
 }
+h4 {
+    font-family: 'Abel', sans-serif;
+    margin-right: 40px;
+}
 h6 {
     font-family: 'Abel', sans-serif;
 }
@@ -65,6 +69,9 @@ hr {
     }
     .sideColumn {
         display: none;
+    }
+    h4 {
+
     }
 }
 @media screen and (min-width:769px) and (max-width: 959px){
