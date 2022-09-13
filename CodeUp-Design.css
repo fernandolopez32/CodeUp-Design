@@ -67,7 +67,7 @@ hr {
     hr {
         display: none;
     }
-    .sideColumn {
+    .largeHiddenContainer {
         display: none;
     }
     h4 {
@@ -75,7 +75,7 @@ hr {
     }
 }
 @media screen and (min-width:769px) and (max-width: 959px){
-    .sideColumn {
+    .largeHiddenContainer {
         display: none;
     }
 }
